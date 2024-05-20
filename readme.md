@@ -13,9 +13,10 @@ Just copy from linear, click on **Copy git branch name**:
 **Example:**
 
 fix/try-22-cant-unvote-a-proposal
+
 feature/try-45-display-subscription-popup-instead-of-no-subscription-toast
 
-**Explanation**
+**Explanation:**
 
 fix - bugs, something that didn't work before, typos
 
