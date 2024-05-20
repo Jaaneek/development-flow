@@ -18,6 +18,7 @@ feature/try-45-display-subscription-popup-instead-of-no-subscription-toast
 **Explanation**
 
 fix - bugs, something that didn't work before, typos
+
 feature - new things, improvements
 
 try-45 - task number from linear
