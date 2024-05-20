@@ -40,4 +40,4 @@ You should see info from linear, it means the linear is tracking it so you don't
 # Code review
 
 1.  At least 1 approve before merging
-2.  Quick urgent fix - feel free to merge and deploy straight to prod
+2.  Quick urgent fix - feel free to merge it without code review
